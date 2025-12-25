@@ -8,8 +8,9 @@ function initializeIntro() {
 
 //btn click = home page redirecting
 function goToHome() {
-    window.location.href = "/home/home.html"; 
+    window.location.href = "home/home.html"; 
 }
+
 
 
 initializeIntro();
